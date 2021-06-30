@@ -1,7 +1,7 @@
 {
-  "name": "PWA Starter",
+  "name": "PWA Starter App",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "/pwa-starter-app",
   "short_name": "starter",
   "theme_color": "#E1477E",
   "description": "This is a PWA Starter app",
